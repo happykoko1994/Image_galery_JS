@@ -1,2 +1,2 @@
-# Image_galery_JS
-Created with CodeSandbox
+# Фото Галерея
+Приложение Фото Галерея на нативном JS
